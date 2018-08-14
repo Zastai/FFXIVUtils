@@ -22,6 +22,9 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+# JetBrains Rider cache/options directory
+.idea/
+
 # Visual Studio 2015 cache/options directory
 .vs/
 
